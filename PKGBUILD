@@ -1,8 +1,8 @@
 # Maintainer: DarkXero <info@techxero.com>
 pkgname=cosmic-desktop-config
 _destname1="/etc"
-pkgver=0.7
-pkgrel=3
+pkgver=0.8
+pkgrel=1
 pkgdesc="Desktop Config for XeroLinux (KDE)"
 arch=('any')
 url="https://github.com/XeroLinuxDev"

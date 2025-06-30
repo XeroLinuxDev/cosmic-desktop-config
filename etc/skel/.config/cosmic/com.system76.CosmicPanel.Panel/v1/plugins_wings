@@ -3,7 +3,7 @@ Some(([
     "com.system76.CosmicPanelAppButton",
 ], [
     "com.nick42d.CosmicAppletArch",
-    "io.github.cosmic-utils.cosmic-ext-applet-sysinfo",
+    "io.github.cosmic_utils.minimon-applet",
     "com.system76.CosmicAppletStatusArea",
     "com.system76.CosmicAppletTiling",
     "com.system76.CosmicAppletAudio",
