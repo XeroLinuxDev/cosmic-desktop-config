@@ -3,6 +3,7 @@ Some(([
 ], [
     "com.nick42d.CosmicAppletArch",
     "net.tropicbliss.CosmicExtAppletCaffeine",
+    "com.system76.CosmicAppletNetwork",
     "com.system76.CosmicAppletStatusArea",
     "com.system76.CosmicAppletTiling",
     "com.system76.CosmicAppletAudio",
